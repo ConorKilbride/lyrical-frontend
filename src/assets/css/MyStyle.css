@@ -1,0 +1,69 @@
+.navBlue {
+    background-color: #07161B;
+  }
+  
+.backgroundBlue {
+    background-color: #07161B;
+  }
+  
+.textWhite {
+    color: white;
+  }
+  
+.nav-link {
+    color: white !important;
+  }
+
+.bgBlue {
+    background-color: #07161B;
+}
+
+.bannerBlue {
+    background-color: #0B2F3A;
+}
+
+.paddingBottom {
+    padding-bottom: 0.75rem;
+}
+
+.paddingLeft {
+    padding-left: 0.75rem;
+}
+
+.paddingRight {
+    padding-right: 0.75rem;
+}
+
+.padding {
+    padding-bottom: .75rem;
+    padding-top: .75rem;
+    padding-left: .75rem;
+    padding-right: .75rem;
+}
+
+.width100 {
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+.darkBlue {
+    background-color: #09232B;
+}
+
+.grey {
+    background-color: lightgray;
+}
+
+.tempImgBox {
+    height: 120px;
+    width: ;
+}
+
+.nrBoxBlue {
+    background-color: #0B3D4A;
+}
+
+.ttwLightBlue {
+    background-color: #527C8A;
+}
