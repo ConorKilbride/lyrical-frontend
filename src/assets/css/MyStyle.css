@@ -9,6 +9,10 @@
 .textWhite {
     color: white;
   }
+
+.textBlack {
+    color: black;
+  }
   
 .nav-link {
     color: white !important;
@@ -20,6 +24,10 @@
 
 .bannerBlue {
     background-color: #0B2F3A;
+}
+
+.paddingTop {
+    padding-top: 0.75rem;
 }
 
 .paddingBottom {
@@ -55,9 +63,9 @@
     background-color: lightgray;
 }
 
-.tempImgBox {
+.nrImgBox {
     height: 120px;
-    width: ;
+    width: 324px;
 }
 
 .nrBoxBlue {
@@ -66,4 +74,28 @@
 
 .ttwLightBlue {
     background-color: #527C8A;
+}
+
+.ttwImgBox {
+    height: 80px;
+    width: 52px;
+}
+
+.ecImgBox {
+    height: 80px;
+    width: 80px;
+    padding-left: 0.75rem;
+}
+
+.taBackgroundBlue {
+    background-color: #1C4D56;
+}
+
+.buttonBlue {
+    background-color: #0B2F3A !important;
+    color: white !important;
+}
+
+.genreCard {
+    background-color: #1C4D56 !important;
 }

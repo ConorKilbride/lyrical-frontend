@@ -5,6 +5,7 @@
         <NavBar :loggedIn="loggedIn" v-on:logout="setLoggedOut" />
         <br>
         <router-view :loggedIn="loggedIn" v-on:login="setLoggedIn" v-on:invalid-token="setLoggedOut" />
+        <br>
       </b-col>
     </b-row> 
   <!-- </b-container> -->
